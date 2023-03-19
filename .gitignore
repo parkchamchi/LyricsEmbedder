@@ -1,0 +1,7 @@
+__pycache__
+
+*.db
+
+*.mp3
+*.flac
+*.m4a
