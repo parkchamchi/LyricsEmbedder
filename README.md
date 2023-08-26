@@ -20,6 +20,10 @@ The track number on the filename is stripped using regex.
 
 Inserts the lyrics scraped from the web to the database. It parses `genius.com`.
 
+### from_txt.py
+
+A alternative script that parses a text file that is constructed as: `lang1 # lang2 [grave] ...`
+
 ### apply_lyrics.py
 
 Embeds the lyrics from the database (from the script or put manually) to the files.

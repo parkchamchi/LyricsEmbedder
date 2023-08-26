@@ -7,3 +7,5 @@ __pycache__
 *.m4a
 
 tmp/
+lang2.txt
+out.txt
