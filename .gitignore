@@ -5,3 +5,5 @@ __pycache__
 *.mp3
 *.flac
 *.m4a
+
+tmp/
